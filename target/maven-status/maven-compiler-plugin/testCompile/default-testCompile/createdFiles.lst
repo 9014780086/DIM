@@ -1,0 +1,7 @@
+com\pojo\UserTest.class
+com\dao\UserDaoTest.class
+com\pojo\UserResultSetTest.class
+com\service\UserServiceTest.class
+com\controller\UserControllerTest.class
+com\dao\UserDaoImplTest.class
+com\service\UserServiceImplTest.class
